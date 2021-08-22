@@ -1,0 +1,124 @@
+[
+    {
+        "codigo": 1,
+        "nome":"Mousse de chocolate", 
+        "descricao": "Mousse de chocolate delicioso. Feito com chocolate de alta qualidade e ingredientes frescos",
+        "tipoMedida": "Kg",
+        "valor": 40,
+        "avalicoes": [
+            {"nome": "Juca", "texto": "Muito bom", "nota": 4},
+            {"nome": "Francisco", "texto": "Gostei", "nota": 3},
+            {"nome": "Cintia", "texto": "Podia ser melhor", "nota": 2},
+            {"nome": "Roberto", "texto": "Adorei", "nota": 5},
+            {"nome": "Marcelo", "texto": "Muito doce", "nota": 1}
+        ],
+        "imagem": "produto1.jpg"
+    },
+    {"codigo": 2,
+        "nome":"Bombom de Chocolate", 
+        "descricao": "Bombons de chocolate recheados com doce de leite cremoso. Feito com chocolate de alta qualidade e ingredientes frescos",
+        "tipoMedida": "Unidade",
+        "valor": 5,
+        "avalicoes": [
+            {"nome": "Francisco", "texto": "Não Gostei", "nota": 1},
+            {"nome": "Estela", "texto": "Melhor que já comi", "nota": 4},
+            {"nome": "Gustavo", "texto": "Prefiro o concorrente", "nota": 1},
+            {"nome": "João", "texto": "Não gostei do chocolate", "nota": 2},
+            {"nome": "Rafaela", "texto": "Estava bom", "nota": 3}
+        ],
+        "imagem": "produto2.jpg"
+    },
+    {"codigo": 3,
+        "nome":"Churros de doce de leite", 
+        "descricao": "Como resistir a churros? Esse quitute frito sempre lembra a infância, certo? Não hesite e prepare essa receita de churros de doce de leite, tão incríveis que você nunca mais quererá voltar para os churros simples!",
+        "tipoMedida": "Unidade",
+        "valor": 4,
+        "avalicoes": [
+            {"nome": "João", "texto": "Muito gostoso. Vou pedir novamente", "nota": 4},
+            {"nome": "Joana", "texto": "Espero que melhorem", "nota": 2},
+            {"nome": "Cirilo", "texto": "Podia ser melhor", "nota": 1},
+            {"nome": "Cristina", "texto": "Adorei", "nota": 5},
+            {"nome": "Tomas", "texto": "Bom", "nota": 5}
+        ],
+        "imagem": "produto3.jpg"
+
+    },
+    {"codigo": 4,
+        "nome":"Sonho Frito", 
+        "descricao": "Existem doces que fazem parte de nossa infância e sempre aparecem à espreita nas padarias para nos fazer salivar. O sonho de padaria, chamado de berliner e bola de Berlim na Europa, é um deles! \r\n Não hesite mais: compre agora mesmo esta delicia de sonho caseiro frito e delicie-se.",
+        "tipoMedida": "Unidade",
+        "valor": 8,
+        "avalicoes": [
+            {"nome": "Juca", "texto": "Muito bom", "nota": 4},
+            {"nome": "Francisco", "texto": "Gostei", "nota": 3},
+            {"nome": "Cintia", "texto": "Podia ser melhor", "nota": 2},
+            {"nome": "Roberto", "texto": "Adorei", "nota": 5},
+            {"nome": "Marcelo", "texto": "Muito doce", "nota": 1}
+        ],
+        "imagem": "produto4.jpg"
+
+    },
+    {"codigo": 5,
+        "nome":"Pudim de Leite Condensado", 
+        "descricao": "Pudim: um encantamento para os olhos e o paladar, leve, doce e perfeito para um sobremesa muito especial! Aproveite essa deliciosa sobremesa e surpreenda seus convidados com carinho e sabor",
+        "tipoMedida": "Kg",
+        "valor": 20,
+        "avalicoes": [
+            {"nome": "Juca", "texto": "Pudim é sempre muito bom", "nota": 5},
+            {"nome": "Joana", "texto": "Tinha muita calda e escorreu na embalagem", "nota": 2},
+            {"nome": "Cristian", "texto": "Podia ser melhor", "nota": 1},
+            {"nome": "Roseli", "texto": "Adorei", "nota": 5},
+            {"nome": "Gabriel", "texto": "GOSTO MUITO DE PUDIM", "nota": 5}
+        ],
+        "imagem": "produto5.jpg"
+
+    },
+    {
+        "codigo": 6,
+        "nome":"Brigadeiro", 
+        "descricao": "Um dos doces mais tradicionais do Brasil é o brigadeiro. Como resistir ao tão chocolate cremoso e saboro. Ideal para uma sobremesa rapida no seu dia ou para presentear. Experimente...",
+        "tipoMedida": "Unidade",
+        "valor": 3,
+        "avalicoes": [
+            {"nome": "João", "texto": "Muito gostoso. Vou pedir novamente", "nota": 4},
+            {"nome": "Joana", "texto": "Espero que melhorem", "nota": 2},
+            {"nome": "Cirilo", "texto": "Podia ser melhor", "nota": 1},
+            {"nome": "Cristina", "texto": "Adorei", "nota": 5},
+            {"nome": "Tomas", "texto": "Bom", "nota": 5}
+        ],
+        "imagem": "produto6.jpg"
+
+    },
+    {
+        "codigo": 7,
+        "nome":"Pavê de chocolate", 
+        "descricao": "Delicioso pavê de chocolate. Cremoso e delicioso. É uma sobremesa para se apreciar sem pressa. Para agradar olhos e paladar.",
+        "tipoMedida": "Kg",
+        "valor": 50,
+        "avalicoes": [
+            {"nome": "João", "texto": "Muito bom", "nota": 4},
+            {"nome": "Maria", "texto": "Na media", "nota": 4},
+            {"nome": "Fernanda", "texto": "Estava muito gostoso", "nota": 4},
+            {"nome": "Carlos", "texto": "Vou recomendar para todo mundo", "nota": 5},
+            {"nome": "Cintia", "texto": "Esse é muito bom", "nota": 5}
+        ],
+        "imagem": "produto7.jpg"
+
+    },
+    {
+        "codigo": 8,
+        "nome":"Cupcake", 
+        "descricao": "De origem norte-americana, o cupcake (ou bolo de xícara) conquistou de vez os brasileiros. Feito com massa de bolo, recheio e cobertura, o cupcake é suculento, saboroso e tem uma apresentação linda, podendo ser entregue como presente ou em ocasiões especiais, no lugar do bem casado, por exemplo.",
+        "tipoMedida": "Unidade",
+        "valor": 10,
+        "avalicoes": [
+            {"nome": "João", "texto": "Muito bom", "nota": 4},
+            {"nome": "Maria", "texto": "Gostei", "nota": 3},
+            {"nome": "Roberto", "texto": "Podia ser melhor", "nota": 2},
+            {"nome": "Carlos", "texto": "Adorei", "nota": 5},
+            {"nome": "Rafael", "texto": "Teste", "nota": 5}
+        ],
+        "imagem": "produto8.jpg"
+
+    }
+]
